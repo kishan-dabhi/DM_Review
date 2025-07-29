@@ -89,7 +89,7 @@ const ReviewCard = () => {
 
   const handleGoogleReview = () => {
     window.open(
-      "https://www.google.com/maps/place/DM+Mobile+%26+Electronic",
+      "https://g.page/r/CXRejnVaDnoEEAE/review",
       "_blank"
     );
   };
